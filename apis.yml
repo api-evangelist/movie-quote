@@ -1,4 +1,16 @@
 aid: movie-quote
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/movie-quote.png
 name: Movie Quote
 description: "Random Movie and Series Quotes"
 url: https://github.com/F4R4N/movie-quote/
